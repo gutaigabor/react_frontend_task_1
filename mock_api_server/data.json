@@ -1,0 +1,31 @@
+{
+  "trips": [
+    {
+      "_id": 1,
+      "name": "European Quest",
+      "countryCount": 8,
+      "days": 21,
+      "emissionOffset": 810,
+      "rating": 5,
+      "bgImage": "https://cdn.britannica.com/10/152310-050-5A09D74A/Sand-dunes-Sahara-Morocco-Merzouga.jpg"
+    },
+    {
+      "_id": 2,
+      "name": "Autumn Roadtrip",
+      "countryCount": 1,
+      "days": 14,
+      "emissionOffset": 3560,
+      "rating": 3.3,
+      "bgImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Road_in_Norway.jpg/1200px-Road_in_Norway.jpg"
+    },
+    {
+      "_id": 3,
+      "name": "Diving adventure in Egypt",
+      "countryCount": 1,
+      "days": 5,
+      "emissionOffset": 6920,
+      "rating": 4.7,
+      "bgImage": "https://ychef.files.bbci.co.uk/976x549/p08htzrb.jpg"
+    }
+  ]
+}
